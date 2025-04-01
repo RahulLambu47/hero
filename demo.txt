@@ -1,4 +1,3 @@
 vcs version control system - CVCS/DVCS
 scrum
-story pointing
-hero is fighting
+hero is fighting for love
