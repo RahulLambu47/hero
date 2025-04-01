@@ -1,4 +1,4 @@
 vcs version control system - CVCS/DVCS
 scrum
 story pointing
-resource intensive operations - sequencial in cpu
+hero is fighting
